@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:alpine3.22-jdk21
+FROM docker pull jenkins/jenkins:2.518-alpine-jdk21
