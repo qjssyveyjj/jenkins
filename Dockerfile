@@ -1,1 +1,1 @@
-FROM bitnami/jenkins:2.504.3-debian-12-r1
+FROM jenkins/jenkins:alpine3.22-jdk21
